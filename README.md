@@ -23,7 +23,7 @@
     alt="Follow on Twitter">
     </a>
     <a href="https://t.me/joinchat/AAiU-kcI09OSTb2y2GsJ_w">  
-        <img src="https://img.shields.io/badge/chat-on%20telegram-blue.svg?longCache=true&style=flat" alt="Join Telegram">
+        <img src="https://img.shields.io/badge/chat-on/20telegram-blue.svg?longCache=true&style=flat" alt="Join Telegram">
     </a>
 </p>
 
