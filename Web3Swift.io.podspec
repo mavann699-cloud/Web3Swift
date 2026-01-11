@@ -27,5 +27,4 @@ encode and decode ABI messages.
   s.dependency 'secp256k1.swift', '~> 0.1'
   s.dependency 'CryptoSwift', '~> 1.0'
   s.dependency 'BigInt', '~> 5.0'
-
-end
+{Keys Lock}
